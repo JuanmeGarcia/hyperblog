@@ -2,6 +2,20 @@ body{
 
     text-align: center;
     font-family: "Arial";
-    color: deeppink;
+    color: rgb(0, 18, 41);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 
+}
+#conteiner{
+    width:  70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #dddddd;
+
+}
+
+#conteiner h1{
+    font-size: 20px;
 }
