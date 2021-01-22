@@ -45,8 +45,16 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
     padding: 1em;
+}
+
+#footerMensaje{
+    background-color: #777777;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5cm ;
 }
